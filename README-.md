@@ -17,7 +17,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 
 ## Overview
- i made the project using css flexbox to practice it but faced some problems like when i added flex to buttons container it occupied the whole width of container and then i had to set it using /*position:relative*/ and also i am not able to set the background in the desired way.  
+ i made the project using css flexbox to practice it but faced some problems like when i added flex to buttons container it occupied the whole width of container and then i had to set it using /*position:relative*/ .Is there any other way to do it. 
 
 ### The challenge
 
